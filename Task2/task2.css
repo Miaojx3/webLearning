@@ -1,0 +1,100 @@
+body {
+    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+}
+
+#head_ {
+    background-color: #222222;
+    float: left;
+    width: 100%;
+    margin: 20px;
+}
+
+.headImg {
+    padding: 10px;
+}
+
+.headList {
+    padding:10px;
+    float: right;
+}
+
+#text_ {
+    background-color: #dddddd;
+}
+#tail_ {
+    background-color: black;
+}
+#head_ li{
+    float: left;
+    width: 100px;
+}
+
+#head_ a:link {
+    color:white;
+}
+#head_ a:visited {
+    color: #bbbbbb;
+}
+#head_ a:hover {
+    color: #666666;
+}
+
+h4 {
+    color: grey;
+}
+#list_ {
+    list-style: none;
+}
+
+img {
+    width: 100px;
+    height: 60px;
+}
+
+.para_note {
+    color : grey;
+    font-size: 50%;
+}
+
+.para_context {
+    background-color: white;
+    border: #bbbbbb solid thin;
+    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    box-shadow: 3px 3px 0px grey;
+}
+
+#side {
+    background-color: white;
+    border: #bbbbbb solid thin;
+    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    box-shadow: 3px 3px 0px grey;
+}
+.picture {
+    width: 150px;
+    height: 100px;
+    margin: 0px 0px 0px 50px;
+    border: grey solid thin;
+    text-align:center;
+}
+
+table,td,th {
+    border:solid #cccccc thin;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+th{
+    background-color:black;
+    color:white;
+}
+.total {
+    background-color: #cccccc;
+}
+.input {
+    text-align: middle;
+}
+
